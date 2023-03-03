@@ -7,12 +7,10 @@
         "esbenp.prettier-vscode"
       ],
       "settings": {
-        "[typescript]": {
-          "editor.defaultFormatter": "esbenp.prettier-vscode"
-        },
         "editor.codeActionsOnSave": {
           "source.organizeImports": true
         },
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
         "editor.formatOnSave": true,
         "files.insertFinalNewline": true,
         "workbench.editor.highlightModifiedTabs": true
